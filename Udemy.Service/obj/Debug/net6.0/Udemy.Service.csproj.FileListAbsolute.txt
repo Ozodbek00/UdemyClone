@@ -1,0 +1,17 @@
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Service.deps.json
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Service.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Service.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Data.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Data.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\bin\Debug\net6.0\Udemy.Domain.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.csproj.AssemblyReference.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.AssemblyInfoInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.AssemblyInfo.cs
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.csproj.CoreCompileInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.csproj.CopyComplete
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\refint\Udemy.Service.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\Udemy.Service.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Service\obj\Debug\net6.0\ref\Udemy.Service.dll

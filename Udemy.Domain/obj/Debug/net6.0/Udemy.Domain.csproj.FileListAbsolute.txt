@@ -1,0 +1,12 @@
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\bin\Debug\net6.0\Udemy.Domain.deps.json
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\bin\Debug\net6.0\Udemy.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\bin\Debug\net6.0\Udemy.Domain.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.csproj.AssemblyReference.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.AssemblyInfoInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.AssemblyInfo.cs
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.csproj.CoreCompileInputs.cache
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\refint\Udemy.Domain.dll
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\Udemy.Domain.pdb
+D:\Ozodbekkkkk\Codes\DotNet\Udemy.Api\Udemy.Domain\obj\Debug\net6.0\ref\Udemy.Domain.dll
